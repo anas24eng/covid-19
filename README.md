@@ -1,4 +1,4 @@
-# calender
+# covid-19
 
 ## Project setup
 ```
